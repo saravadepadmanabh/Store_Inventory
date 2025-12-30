@@ -155,7 +155,7 @@
             this.lblFooter.Name = "lblFooter";
             this.lblFooter.Size = new System.Drawing.Size(169, 17);
             this.lblFooter.TabIndex = 0;
-            this.lblFooter.Text = "Developed By: VIJAY THAPA";
+            this.lblFooter.Text = "C# project by PRANAV, PADMANABH, MANJUNATH @2025 MCA KLS GIT, BELAGAVI";
             // 
             // frmUserDashboard
             // 
@@ -200,4 +200,5 @@
         private System.Windows.Forms.Label lblFooter;
         private System.Windows.Forms.ToolStripMenuItem dealerAndCustomerToolStripMenuItem;
     }
+
 }
